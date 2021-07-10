@@ -1,0 +1,30 @@
+body{
+      margin:0px;
+      padding:0px;
+      font-family:sans-serif;
+      background-size:cover;
+  }
+.box{
+    position: absolute;
+    top: 200px;
+    left:350px;
+    width: 600px;
+    height: 250px;
+    border-radius: 25px;
+    text-align: center;
+    padding: 40px 30px;
+    background:black;
+    box-sizing: border-box;
+    border-radius:15px;
+    opacity: 0.8;
+}
+.btn{
+  width: 80px;
+  height: 30px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  outline: none;
+  background-color: #4682B4;
+  margin: 20px 20px;
+  color:white
+}
